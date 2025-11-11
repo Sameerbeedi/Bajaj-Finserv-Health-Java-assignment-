@@ -335,7 +335,7 @@ The server validates:
 
 ## 🔗 Repository Links
 
-- **GitHub Repository**: `https://github.com/Sameerbeedi/Bajaj-Finserv-Health-Java-assignment`
+- **GitHub Repository**: `https://github.com/Sameerbeedi/Bajaj-Finserv-Health-Java-assignment-`
 - **JAR Download**: `https://github.com/Sameerbeedi/Bajaj-Finserv-Health-Java-assignment-/tree/main/target`
 
 ## 👤 Author
